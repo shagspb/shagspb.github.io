@@ -68,6 +68,9 @@ img {
     display: inline-block;
     vertical-align: middle;
 }
+circular-image {
+  border-radius:  50%;
+}
 textarea {
     height: auto;
     min-height: 50px;
