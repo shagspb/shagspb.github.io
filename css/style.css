@@ -62,13 +62,13 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 img {
-    max-width: 50px;
+    max-width: 75px;
     height: auto;
     -ms-interpolation-mode: bicubic;
     display: inline-block;
     vertical-align: middle;
     border-radius:  50%;
-    border: 5px solid #ffffff
+    border: 2px solid #ffffff
 }
 
 textarea {
