@@ -39,6 +39,7 @@ h1 {
 img {
     border: 0;
     border-radius:  50%;
+    border: 5px solid #ffffff
 }
 html {
     font-size: 100%;
@@ -69,6 +70,7 @@ img {
     display: inline-block;
     vertical-align: middle;
     border-radius:  50%;
+    border: 5px solid #ffffff
 }
 
 textarea {
