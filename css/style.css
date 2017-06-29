@@ -62,7 +62,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 img {
-    max-width: 100%;
+    max-width: 60%;
     height: auto;
     -ms-interpolation-mode: bicubic;
     display: inline-block;
