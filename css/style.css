@@ -67,10 +67,11 @@ img {
     -ms-interpolation-mode: bicubic;
     display: inline-block;
     vertical-align: middle;
+    .circular-image {
+        border-radius:  50%;
+    }
 }
-.circular-image {
-  border-radius:  50%;
-}
+
 textarea {
     height: auto;
     min-height: 50px;
