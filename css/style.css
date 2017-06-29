@@ -68,7 +68,7 @@ img {
     display: inline-block;
     vertical-align: middle;
 }
-circular-image {
+.circular-image {
   border-radius:  50%;
 }
 textarea {
