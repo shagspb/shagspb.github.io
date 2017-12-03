@@ -1,4 +1,4 @@
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+/*! normalize.css v3.0.3 | MIT License */
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
@@ -56,8 +56,8 @@ body {
     line-height: 1.5;
     color: #fff;
     background: #e96443; /* fallback for old browsers */
-    background: -webkit-linear-gradient(to left, #e96443 , #904e95); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to left, #e96443 , #904e95); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: -webkit-linear-gradient(to left, #d299c2 , #fef9d7); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #d299c2 , #fef9d7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
