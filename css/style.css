@@ -13,7 +13,7 @@ a {
 }
 a:after {
     
-   
+   text-color: #afa;
 }
 a:hover:after {
     width: 100%;
