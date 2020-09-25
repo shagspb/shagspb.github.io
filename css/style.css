@@ -1159,7 +1159,7 @@ p+.stat {
         text-decoration: underline;
     }
     a[href]:after {
-        content: " (" attr(href) ")";
+        
     }
     .ir a:after,
     a[href^='javascript:']:after,
@@ -1167,7 +1167,7 @@ p+.stat {
         content: '';
     }
     abbr[title]:after {
-        content: " (" attr(title) ")";
+        
     }
     pre,
     blockquote {
