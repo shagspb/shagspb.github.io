@@ -1174,8 +1174,7 @@ p+.stat {
     }
     pre,
     blockquote {
-        border: 1px solid #8a8a8a;
-        page-break-inside: avoid;
+        
     }
     thead {
         display: table-header-group;
