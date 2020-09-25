@@ -12,14 +12,7 @@ a {
     position: relative;
 }
 a:after {
-    content: "";
-    position: absolute;
-    width: 0;
-    height: 2px;
-    top: 50%;
-    left: 0;
-    margin-top: -2px;
-    background-color: #fff;
+    
    
 }
 a:hover:after {
