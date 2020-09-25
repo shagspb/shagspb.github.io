@@ -971,7 +971,7 @@ h6 {
 a {
     color: #fff;
     text-decoration: underline;
-    
+    line-height: inherit;
     cursor: pointer;
 }
 
@@ -1246,7 +1246,7 @@ p+.stat {
 .menu>li>a img,
 .menu>li>a i {
     margin-right: 0.25rem;
-    display: inline-block;
+    
 }
 .menu>li {
     display: table-cell
