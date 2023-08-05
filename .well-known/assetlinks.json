@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "me.pinxter.core_clowder",
-    "sha256_cert_fingerprints":
-    ["2f:6f:21:a7:8d:75:01:e7:fc:9c:81:a5:08:1b:51:85:80:1b:68:cb"]
-  }
-}]
