@@ -1570,7 +1570,7 @@ screen and (min-width: 75em) {
     vertical-align: baseline;
 }
 .main .large-12 {
-    margin-top: 10%;
+    margin-top: 3em;
     margin-bottom: 3em;
 }
 .main ul {
@@ -1596,7 +1596,7 @@ h1 span {
 }
 
 .projects .large-12 {
-    margin-top: 10%;
+    margin-top: 3em;
      margin-bottom: 3em;
 }
 .projects .large-12 .row {
