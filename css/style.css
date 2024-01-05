@@ -1570,7 +1570,7 @@ screen and (min-width: 75em) {
     vertical-align: baseline;
 }
 .main .large-12 {
-    margin-top: 3em;
+    margin-top: 5%;
     margin-bottom: 3em;
 }
 .main ul {
@@ -1592,12 +1592,12 @@ h1 span {
 }
 
 .menu {
-    margin-top: 3em;
+    margin-top: 5%;
     margin-bottom: 3em;
 }
 
 .projects .large-12 {
-    margin-top: 3em;
+    margin-top: 5%;
     margin-bottom: 3em;
 }
 .projects .large-12 .row {
@@ -1626,7 +1626,7 @@ h1 span {
     color: #ffcbd2;
 }
 .popup h1 {
-    margin-top: 3em;
+    margin-top: 5%;
 }
 .social {
     font-size: 1.5rem;
