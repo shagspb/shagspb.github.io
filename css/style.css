@@ -1571,6 +1571,7 @@ screen and (min-width: 75em) {
 }
 .main .large-12 {
     margin-top: 10%;
+    margin-bottom: 10%;
 }
 .main ul {
     list-style-type: none;
@@ -1596,6 +1597,7 @@ h1 span {
 
 .projects .large-12 {
     margin-top: 10%;
+    margin-bottom: 10%;
 }
 .projects .large-12 .row {
     margin-bottom: 1em;
