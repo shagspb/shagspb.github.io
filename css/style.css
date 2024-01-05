@@ -1597,7 +1597,7 @@ h1 span {
 }
 
 .projects .large-12 {
-    margin-top: 1em;
+    margin-top: 3em;
     margin-bottom: 3em;
 }
 .projects .large-12 .row {
@@ -1616,6 +1616,7 @@ h1 span {
 }
 .popup .row {
     padding-top: 3em;
+    padding-bottom: 3em;
 }
 .popup-close {
     font-size: 4em;
